@@ -1,6 +1,6 @@
 # MonteCarlo
 How to run:
- - First ensure that the file `./src/django/monte_project/settings.py` contains credentials for a MySQL database.
+ - Ensure there is a properly generated SECRET_KEY and relational database connection in settings.py.
  - Have Python 3 installed on your machine.
  - Open a powershell in the src directory.
  - Run the command `pip install  -r requirements.txt`.
